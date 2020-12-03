@@ -1,1 +1,2 @@
-# project-csgo20
+# GCSO
+GCSO
